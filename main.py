@@ -6,3 +6,5 @@ if random_side == 1:
     print("Heads")
 else:
     print("Tails")
+
+test
